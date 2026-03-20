@@ -1,4 +1,4 @@
-# DISCONTINUATION
+# DISCONTINUATION (schmaldeo)
 
 **I'm sad to announce that I will be discontinuing any further work on this project.**
 
